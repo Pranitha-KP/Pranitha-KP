@@ -9,4 +9,5 @@ Pranitha-KP/Pranitha-KP is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Hi, I am Pranitha-KP
-I am intrested in 
+I am intrested in Robotic field
+I am currently learning  B.tech in Electronics and communication engineer.
